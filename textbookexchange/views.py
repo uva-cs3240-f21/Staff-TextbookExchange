@@ -2,4 +2,4 @@ from django.shortcuts import render
 from django.http import HttpResponse
 
 def index(request):
-    return HttpResponse("Hi 11:00!!! You are my besties.  Don't tell 2:00.  I'll delete this from the recording.  Hello, world. You are my everything!  :heart:")
+    return HttpResponse("How DARE those ner'do'wells in 11:00 haxor my system!  <angry face/>  2:00 is awesome and I love you all :heart:")
